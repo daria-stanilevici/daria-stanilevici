@@ -1,4 +1,4 @@
-###👋 I'm thrilled that you're here.
+👋 I'm thrilled that you're here.
 
 I am a passionate software developer with a keen interest in creating innovative solutions to real-world problems. I have experience working with a variety of programming languages and technologies, and I am always eager to learn and explore new things.
 
