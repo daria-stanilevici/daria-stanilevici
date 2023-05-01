@@ -30,7 +30,7 @@
     <h3 align="left">Find out more:</h3>
     <p align="left">
         <a href="https://www.linkedin.com/in/dariastnl/" target="blank">
-            <img align="left" alt="LinkedIn" width="30px" style="padding-right:10px"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/></a>
+            <img align="left" alt="LinkedIn" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/></a>
         <a href="https://www.artstation.com/daria_stnl" target="blank">
-            <img align="left" alt="ArtStation" width="30px" style="padding-right:10px"src="[https://icons8.com/icon/106536/artstation](https://www.iconfinder.com/icons/3721680/artstation_icon)"/></a>
-    </p>
+            <i align="left" alt="LinkedIn" width="30px" style="padding-right:10px" class="fa-brands fa-artstation"></i>
+        </p>
