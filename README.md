@@ -26,8 +26,7 @@
 <img align="left" alt="Maya" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maya/maya-original-wordmark.svg"/>
 
 <details>
-    <summary><h3>Daria's Coding Journey</h3></summary>
-    Bla bla bla
+    <summary><h3>Daria's Coding Journey</h3>Bla bla bla</summary>
 
     <h3 align="left">Find out more:</h3>
     <p align="left">
