@@ -27,10 +27,4 @@
 <img align="left" alt="NodeJS" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
 <img align="left" alt="Amazon Web Services" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg"/>
 
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{dariastnl}/count.svg" /></p>
-<br>
-</div>
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffaaba&height=120&section=footer"/>
