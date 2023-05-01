@@ -26,3 +26,5 @@
 ### Studying in this moment:
 <img align="left" alt="NodeJS" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
 <img align="left" alt="Amazon Web Services" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg"/>          
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffaaba&height=120&section=footer"/>
