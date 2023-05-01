@@ -30,7 +30,5 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9fc5e8&height=120&section=footer"/>
 
 ```css
-   h1 {
    font="Montserrat" color="9fc5e8"
-   }
 ```
