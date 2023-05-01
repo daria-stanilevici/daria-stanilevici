@@ -2,4 +2,5 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&duration=4500&pause=500&color=FFAABA&width=435&lines=Hello%2C+it's+Daria;A+Software+Developer" alt="Typing SVG" /></a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dariastnl&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+ <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolbarbosa101&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
+</div>
