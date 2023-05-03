@@ -6,8 +6,7 @@
 <a href="https://www.linkedin.com/in/dariastnl/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
 <a href = "mailto:dstanilevichi@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
           
-### Programming Journey:
-<p>
+<details><summary>Programming Journey:</summary>
 Let me tell you a funny story about how I became a programmer.
           
 It all started when I was 14 years old. I was dreaming of enrolling in the best college in Moldova for an accounting course, since everyone in my family was an accountant. But at that time, I had already bought tickets to Greece, so I asked my sister to apply on my behalf. However, while I was on my way to Greece, my sister called me to tell me that accounting course was cancelled and that I had been enrolled in a programming course instead.
@@ -19,7 +18,7 @@ On my first day of college, the teacher asked if anyone knew what programming wa
 That's how my journey to becoming a programmer started, with denial, acceptance, and eventually a passion for the field. From school, I had always been interested in computer science and video games, so I took additional courses and worked extra hard to learn as many programming languages as possible.
 
 Now, I can't imagine my life without programming. It has become a part of who I am, and my goal is to use my skills to make our human future the best it can be. I want to create revolutionary software programs that benefit others. The possibilities are endless in programming, and I'm excited to see where my journey takes me next...
-</p>
+</details>
 
 ### Main skills:
 <img align="left" alt="C" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
