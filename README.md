@@ -2,7 +2,7 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=9fc5e8&width=435&lines=Hello%2C+it's+Daria+Stanilevici;Software+Developer" alt="Typing SVG" /></a>
           
-<details><summary open>## Programming Journey:</summary>
+<details><summary open>Programming Journey:</summary>
 Let me tell you a funny story about how I became a programmer.
           
 It all started when I was 14 years old. I was dreaming of enrolling in the best college in Moldova for an accounting course, since everyone in my family was an accountant. But at that time, I had already bought tickets to Greece, so I asked my sister to apply on my behalf. However, while I was on my way to Greece, my sister called me to tell me that accounting course was cancelled and that I had been enrolled in a programming course instead.
