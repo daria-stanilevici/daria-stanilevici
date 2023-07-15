@@ -7,7 +7,7 @@
 ### Programming Journey:</summary>
 Let me tell you a funny story about how I became a programmer✨
           
-It all started when I was 14 years old. I was dreaming of enrolling in the best college in Moldova for an accounting course, since everyone in my family was an accountant. But at that time, I had already bought tickets to Greece, so I asked my sister to apply on my behalf. However, while I was on my way to Greece, my sister called me to tell me that accounting course was cancelled and that I had been enrolled in a programming course instead.
+It all started when I was 14 years old. I was dreaming of enrolling in the best college in Moldova for an accounting course, since everyone in my family was an accountant. But at that time, I had already bought tickets to Greece, so I asked my sister to apply on my behalf. However, while I was on my way to Greece, my sister called me to tell that accounting course was cancelled and that I had been enrolled in a programming course instead.
 
 I was devastated and couldn't stop crying during my entire vacation. I was ready to give up on my dream of attending the best college in my country and go back to school. But there was no turning back.
 
@@ -26,4 +26,4 @@ Now, I can't imagine my life without programming. It has become a part of who I 
 ### Studying:
 [![Learning](https://skillicons.dev/icons?i=react,express,jest,jenkins,ruby,mongodb,aws)](https://skillicons.dev)
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9fc5e8&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9fc5e8&height=120&section=footer"/
