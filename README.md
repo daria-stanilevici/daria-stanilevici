@@ -22,7 +22,7 @@ Now, I can't imagine my life without programming. It has become a part of who I 
 <a href = "mailto:dstanilevichi@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 ### Main skills:
-[![My Skills](https://skillicons.dev/icons?i=java,js,nodejs,html,css,bootstrap,php,cpp,cs,dotnet,py,mysql,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,js,nodejs,html,css,php,bootstrap,cpp,cs,dotnet,py,mysql,git)](https://skillicons.dev)
 ### Studying:
 [![Learning](https://skillicons.dev/icons?i=react,express,jest,jenkins,ruby,mongodb,aws)](https://skillicons.dev)
 
