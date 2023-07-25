@@ -20,6 +20,7 @@ Now, I can't imagine my life without programming. It has become a part of who I 
 
 <a href="https://www.linkedin.com/in/dariastnl/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
 <a href = "mailto:dstanilevichi@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href = "https://dev.to/daria-stanilevici"> <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" target="_blank"></a>
 
 ### Main skills:
 [![My Skills](https://skillicons.dev/icons?i=java,js,nodejs,html,css,php,bootstrap,cpp,cs,dotnet,py,mysql,git)](https://skillicons.dev)
