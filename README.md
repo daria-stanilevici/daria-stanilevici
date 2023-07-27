@@ -18,14 +18,19 @@ That's how my journey to becoming a programmer started, with denial, acceptance,
 Now, I can't imagine my life without programming. It has become a part of who I am, and my goal is to use my skills to make our human future the best it can be. I want to create revolutionary software programs that benefit others. The possibilities are endless in programming, and I'm excited to see where my journey takes me next💫
 </details>
 
-<a href="https://www.linkedin.com/in/dariastnl/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
-<a href = "https://dev.to/daria-stanilevici"> <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" target="_blank"></a>
-<a href = "https://medium.com/@dstanilevichi"> <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>
-<a href = "mailto:dstanilevichi@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-
 ### Main skills:
 [![My Skills](https://skillicons.dev/icons?i=java,js,nodejs,html,css,php,bootstrap,cpp,cs,dotnet,py,mysql,git)](https://skillicons.dev)
 ### Studying:
 [![Learning](https://skillicons.dev/icons?i=react,express,jest,jenkins,ruby,mongodb,aws)](https://skillicons.dev)
+
+### Publications:
+You can find my publications on Medium() and Dev.to, where I explore a range of fascinating topics, from  quantum computing to understanding climate change and cleaning the oceans. Additionally, I share insights on building a fulfilling and rewarding career in the world of tech.
+
+Read my latest post: [Quantum Superpowers to the Rescue: How Quantum Computing Will Save Our Planet from Climate Change](https://medium.com/@dstanilevichi/quantum-superpowers-to-the-rescue-how-quantum-computing-will-save-our-planet-from-climate-change-490bef086a6b)
+
+### Follow me:
+<a href="https://www.linkedin.com/in/dariastnl/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
+<a href="https://medium.com/@dstanilevichi"> <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>
+<a href="https://dev.to/daria-stanilevici"> <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" target="_blank"></a>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9fc5e8&height=120&section=footer"/>
