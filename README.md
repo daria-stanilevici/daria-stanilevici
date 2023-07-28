@@ -24,7 +24,7 @@ Now, I can't imagine my life without programming. It has become a part of who I 
 [![Learning](https://skillicons.dev/icons?i=react,express,jest,jenkins,ruby,mongodb,aws)](https://skillicons.dev)
 
 ### Publications:
-You can find my publications on Medium() and Dev.to, where I explore a range of fascinating topics, from  quantum computing to understanding climate change and cleaning the oceans. Additionally, I share insights on building a fulfilling and rewarding career in the world of tech.
+You can find my publications on Medium and Dev.to, where I explore a range of fascinating topics, from  quantum computing to understanding climate change and cleaning the oceans. Additionally, I share insights on building a fulfilling and rewarding career in the world of tech.
 
 Read my latest post: [Quantum Superpowers to the Rescue: How Quantum Computing Will Save Our Planet from Climate Change](https://medium.com/@dstanilevichi/quantum-superpowers-to-the-rescue-how-quantum-computing-will-save-our-planet-from-climate-change-490bef086a6b)
 
