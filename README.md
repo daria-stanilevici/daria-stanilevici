@@ -28,7 +28,7 @@ You can find my publications on Medium and Dev.to, where I explore a range of fa
 
 Read my latest post: [Quantum Superpowers to the Rescue: How Quantum Computing Will Save Our Planet from Climate Change](https://medium.com/@dstanilevichi/quantum-superpowers-to-the-rescue-how-quantum-computing-will-save-our-planet-from-climate-change-490bef086a6b)
 
-### Follow me:
+### Follow me: 
 <div>           
 <a href="https://www.linkedin.com/in/dariastnl/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
 <a href="https://medium.com/@dstanilevichi"> <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>
