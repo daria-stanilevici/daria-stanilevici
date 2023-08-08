@@ -2,13 +2,13 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=9fc5e8&width=435&lines=Hello%2C+it's+Daria+Stanilevici;Software+Engineer" alt="Typing SVG" /></a>
 
-### My mission
-It's about revealing the secrets of the world and saving it with the help of technology.<br> Picture using quantum computing and AI to rescue our imperilled oceans, and discovering something that reshapes our comprehension!<br>Climate risks? They're on my radar as well. I'm all about redefining the conceivable, and together, we can forge a future in which technology paves the path for a thriving planet 🚀
-
 ### Main skills
 [![My Skills](https://skillicons.dev/icons?i=java,js,nodejs,html,css,php,bootstrap,cpp,cs,dotnet,py,mysql,git)](https://skillicons.dev)
 ### Studying
 [![Learning](https://skillicons.dev/icons?i=react,express,jest,jenkins,ruby,mongodb,aws)](https://skillicons.dev)
+
+### My mission
+It's about revealing the secrets of the world and saving it with the help of technology 🌱<br> Picture using quantum computing and AI to rescue our imperilled oceans, and discovering something that reshapes our comprehension!<br>Climate risks? They're on my radar as well. I'm all about redefining the conceivable, and together, we can forge a future in which technology paves the path for a thriving planet 🚀
 
 <details><summary><h3>
 Programming Journey</h3></summary>
