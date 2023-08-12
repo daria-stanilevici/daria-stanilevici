@@ -15,9 +15,7 @@ It's about revealing the secrets of the world and saving it with the help of tec
 <a href="https://medium.com/@dstanilevichi"> <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>
 <a href="https://dev.to/daria-stanilevici"> <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" target="_blank"></a>
 </div>
-You can find my publications on Medium and Dev.to, where I explore a range of fascinating topics, from  quantum computing to understanding climate change and cleaning the oceans. Additionally, I share insights on building a fulfilling and rewarding career in the world of tech.
-
-Read my latest post: [Quantum Superpowers to the Rescue: How Quantum Computing Will Save Our Planet from Climate Change](https://medium.com/@dstanilevichi/quantum-superpowers-to-the-rescue-how-quantum-computing-will-save-our-planet-from-climate-change-490bef086a6b)
+You can find my publications on Medium and Dev.to, where I explore a range of fascinating topics, from  quantum computing to understanding climate change and cleaning the oceans. Additionally, I share insights on building a fulfilling and rewarding career in the world of tech. Read my latest post 👇<br>[Quantum Superpowers to the Rescue: How Quantum Computing Will Save Our Planet from Climate Change](https://medium.com/@dstanilevichi/quantum-superpowers-to-the-rescue-how-quantum-computing-will-save-our-planet-from-climate-change-490bef086a6b)
 
 ### Connect with Me on LinkedIn
 <div>
