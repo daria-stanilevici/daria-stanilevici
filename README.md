@@ -17,8 +17,6 @@ It's about revealing the secrets of the world and saving it with the help of tec
 </div>
 You can find my publications on Medium and Dev.to, where I explore a range of fascinating topics, from  quantum computing to understanding climate change and cleaning the oceans. Additionally, I share insights on building a fulfilling and rewarding career in the world of tech. Read my latest post 👇<br>
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@daria-stanilevici/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@daria-stanilevici/0" alt="Recent Article 0"> 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@daria-stanilevici/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@daria-stanilevici/1" alt="Recent Article 1"> 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@daria-stanilevici/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@daria-stanilevici/2" alt="Recent Article 2"> 
 
 ### Connect with Me on LinkedIn
 <div>
