@@ -8,7 +8,7 @@
 [![Learning](https://skillicons.dev/icons?i=react,express,jest,jenkins,ruby,mongodb,aws)](https://skillicons.dev)
 
 ### My mission
-It's about revealing the secrets of the world and saving it with the help of technology 🌱<br> Picture using AI to rescue our imperilled oceans, and discovering something that reshapes our comprehension!<br>Climate risks? They're on my radar as well. I'm all about redefining the conceivable, and together, we can forge a future in which technology paves the path for a thriving planet 🚀
+It's about driving sustainability and net zero initiatives, promoting mental health awareness, and support career growth by sharing my knowledge. Together, we can tackle real-world challenges, using technology to forge a future where we solve critical issues and create a thriving planet.
 
 ### Publications
 <div>           
