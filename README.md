@@ -27,11 +27,11 @@ I'm always eager to connect with tech enthusiasts and anyone who shares a passio
 
 <details><summary><h3>
 My Journey</h3></summary>
-Let me tell you a funny story about the start of my career as a programmer ✨
+Let me tell you a funny story about the start of my career✨<br>
 
-When I was 14, I dreamed of joining the top college in Moldova to study accounting, just like all women in my family. But since I had a trip to Greece planned, I asked my sister to apply on my behalf. While I was on my way to Greece, she called to say the accounting course had been canceled—and I’d been enrolled in a programming course instead.
+  When I was 14, I dreamed of joining the top college in Moldova to study accounting, just like all women in my family. But since I had a trip to Greece planned, I asked my sister to apply on my behalf. While I was on my way to Greece, she called to say the accounting course had been canceled—and I’d been enrolled in a programming course instead.<br>
 
-I was devastated! I even thought about dropping out, but there was no turning back - my parents didn't let me! On my first day, everyone but me knew what programming was. Out of embarrassment, I raised my hand, pretending I did too, AND I COULD NOT ANSWER ONCE I'VE BEEN ASKED! Yet over time, what began with confusion and denial turned into a passion. I worked hard, took extra courses, and developed a love for programming that shaped my career.
+  I was devastated! I even thought about dropping out, but there was no turning back - my parents didn't let me! On my first day, everyone but me knew what programming was. Out of embarrassment, I raised my hand, pretending I did too, AND I COULD NOT ANSWER ONCE I'VE BEEN ASKED! Yet over time, what began with confusion and denial turned into a passion. I worked hard, took extra courses, and developed a love for programming that shaped my career.<br>
 
 After several years in programming, I eventually transitioned to Business Analytics, where I use my technical background to drive impactful projects and empower teams to make data-driven decisions. Now, I’m excited to see where my journey will take me next 💫
 </details>
