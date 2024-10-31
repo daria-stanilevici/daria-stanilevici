@@ -22,12 +22,12 @@ You can find my publications on Medium and Dev.to, where I explore a range of fa
 <div>
 <a href="https://www.linkedin.com/in/daria-stanilevici/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a>
 </div>
-I'm always eager to connect with tech enthusiasts and anyone who shares a passion for creating a better world through technology. Let's exchange ideas and share our knowledge, feel free to connect with me 💫
+I'm always eager to connect with tech enthusiasts and anyone who shares a passion for creating a better world through technology. Let's exchange ideas and share our knowledge, feel free to connect with me!
 
 
 <details><summary><h3>
 My Journey</h3></summary>
-Let me tell you a funny story about the start of my career✨<br>
+Let me tell you a funny story about the start of my career ✨<br>
 
   When I was 14, I dreamed of joining the top college in Moldova to study accounting, just like all women in my family. But since I had a trip to Greece planned, I asked my sister to apply on my behalf. While I was on my way to Greece, she called to say the accounting course had been canceled—and I’d been enrolled in a programming course instead.<br>
 
