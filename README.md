@@ -20,7 +20,7 @@ You can find my publications on Medium and Dev.to, where I explore a range of fa
 
 ### Connect with Me on LinkedIn
 <div>
-<a href="https://www.linkedin.com/in/dariastnl/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a>
+<a href="https://www.linkedin.com/in/daria-stanilevici/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a>
 </div>
 I'm always eager to connect with tech enthusiasts and anyone who shares a passion for creating a better world through technology. Let's exchange ideas and share our knowledge, feel free to connect with me 💫
 
