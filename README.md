@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9fc5e8&height=120&section=header"/> 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=header"/> 
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=9fc5e8&width=435&lines=Hello%2C+it's+Daria+Stanilevici;Business+Analyst" alt="Typing SVG" /></a>
 
@@ -36,4 +36,4 @@ Let me tell you a funny story about the start of my career ✨<br>
 After several years in programming, I eventually transitioned to Business Analytics, where I use my technical background to drive impactful projects and empower teams to make data-driven decisions. Now, I’m excited to see where my journey will take me next 💫
 </details>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9fc5e8&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=footer"/>
