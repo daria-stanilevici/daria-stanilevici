@@ -8,7 +8,7 @@
 [![Learning](https://skillicons.dev/icons?i=react,express,jest,jenkins,ruby,mongodb,aws)](https://skillicons.dev)
 
 ### My mission
-It's about driving sustainability and net zero initiatives, promoting mental health awareness, and support career growth by sharing my knowledge. Together, we can tackle real-world challenges, using technology to forge a future where we solve critical issues and create a thriving planet.
+I’m driven by a love for solving problems! With a technical background, I’ve always found my place in connecting people and working closely with businesses. My mission is to bridge connections, empower collaboration, and tackle real-world challenges that make a meaningful difference.
 
 ### Publications
 <div>           
