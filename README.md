@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9fc5e8&height=120&section=header"/> 
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=9fc5e8&width=435&lines=Hello%2C+it's+Daria+Stanilevici;Software+Engineer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=9fc5e8&width=435&lines=Hello%2C+it's+Daria+Stanilevici;Business+Analyst" alt="Typing SVG" /></a>
 
 ### Main skills
 [![My Skills](https://skillicons.dev/icons?i=java,js,nodejs,html,css,php,bootstrap,cpp,cs,dotnet,py,mysql,git)](https://skillicons.dev)
@@ -8,7 +8,7 @@
 [![Learning](https://skillicons.dev/icons?i=react,express,jest,jenkins,ruby,mongodb,aws)](https://skillicons.dev)
 
 ### My mission
-It's about revealing the secrets of the world and saving it with the help of technology 🌱<br> Picture using quantum computing and AI to rescue our imperilled oceans, and discovering something that reshapes our comprehension!<br>Climate risks? They're on my radar as well. I'm all about redefining the conceivable, and together, we can forge a future in which technology paves the path for a thriving planet 🚀
+It's about revealing the secrets of the world and saving it with the help of technology 🌱<br> Picture using AI to rescue our imperilled oceans, and discovering something that reshapes our comprehension!<br>Climate risks? They're on my radar as well. I'm all about redefining the conceivable, and together, we can forge a future in which technology paves the path for a thriving planet 🚀
 
 ### Publications
 <div>           
@@ -26,18 +26,14 @@ I'm always eager to connect with tech enthusiasts and anyone who shares a passio
 
 
 <details><summary><h3>
-Programming Journey</h3></summary>
-Let me tell you a funny story about how I became a programmer ✨
-          
-It all started when I was 14 years old. I was dreaming of enrolling in the best college in Moldova for an accounting course, since everyone in my family was an accountant. But at that time, I had already bought tickets to Greece, so I asked my sister to apply on my behalf. However, while I was on my way to Greece, my sister called me to tell that accounting course was cancelled and that I had been enrolled in a programming course instead.
+My Journey</h3></summary>
+Let me tell you a funny story about the start of my career as a programmer ✨
 
-I was devastated and couldn't stop crying during my entire vacation. I was ready to give up on my dream of attending the best college in my country and go back to school. But there was no turning back.
+When I was 14, I dreamed of joining the top college in Moldova to study accounting, just like all women in my family. But since I had a trip to Greece planned, I asked my sister to apply on my behalf. While I was on my way to Greece, she called to say the accounting course had been canceled—and I’d been enrolled in a programming course instead.
 
-On my first day of college, the teacher asked if anyone knew what programming was, and everyone except me raised their hand. Out of shame, I raised my hand as well, but when the teacher asked me to explain what programming was, I was at a loss for words 😆
+I was devastated! I even thought about dropping out, but there was no turning back - my parents didn't let me! On my first day, everyone but me knew what programming was. Out of embarrassment, I raised my hand, pretending I did too, AND I COULD NOT ANSWER ONCE I'VE BEEN ASKED! Yet over time, what began with confusion and denial turned into a passion. I worked hard, took extra courses, and developed a love for programming that shaped my career.
 
-That's how my journey to becoming a programmer started, with denial, acceptance, and eventually a passion for the field. From school, I had always been interested in computer science and video games, so I took additional courses and worked extra hard to learn as many programming languages as possible.
-
-Now, I can't imagine my life without programming. It has become a part of who I am, and my goal is to use my skills to make our human future the best it can be. I want to create revolutionary software programs that benefit others. The possibilities are endless in programming, and I'm excited to see where my journey takes me next 💫
+After several years in programming, I eventually transitioned to Business Analytics, where I use my technical background to drive impactful projects and empower teams to make data-driven decisions. Now, I’m excited to see where my journey will take me next 💫
 </details>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9fc5e8&height=120&section=footer"/>
