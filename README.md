@@ -26,10 +26,10 @@ I’m driven by a love for solving problems! With a technical background, I’ve
 -->
 
 ### Main skills
-[![My Skills](https://skillicons.dev/icons?i=java,js,nodejs,html,css,php,bootstrap,cpp,cs,dotnet,py,mysql,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,regex,github,git,mongodb,mysql,eclipse,java,spring,js,nodejs,react,express,jest,jenkins,cpp,cs,dotnet,html,css,bootstrap,pug,php,androidstudio,blender,ps,notion)](https://skillicons.dev)
 
 ### Studying
-[![Learning](https://skillicons.dev/icons?i=react,express,jest,jenkins,ruby,mongodb,aws)](https://skillicons.dev)
+[![Learning](https://skillicons.dev/icons?i=aws,azure,ruby)](https://skillicons.dev)
 
 <!--
      I also have my own blog with useful information, check it out ^^
