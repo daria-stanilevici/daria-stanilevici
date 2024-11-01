@@ -58,7 +58,7 @@ Check out my latest post 👇<br>
 -->
 
 ### Connect with me!
-<p>
+<div>
   <a href="https://www.linkedin.com/in/daria-stanilevici/">
     <img src="https://github.com/user-attachments/assets/880aaea6-79b9-4058-b9b4-342391ca04ea" alt="LinkedIn" width="35" height="35"/>
   </a>
@@ -71,7 +71,7 @@ Check out my latest post 👇<br>
   <a href="https://medium.com/@daria-stanilevici">
     <img src="https://github.com/user-attachments/assets/33da1818-a750-4e4b-a09a-9c8b1c4e9338" alt="Medium" width="35" height="35"/>
   </a>
-</p>
+</div>
 
 <!--
      Oh, hello there, recruiters!
