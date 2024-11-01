@@ -45,7 +45,9 @@ I’m driven by a love for solving problems! With a technical background, I’ve
   </a>
 </div>
 
-You can find my publications on Medium and Dev.to, where I explore a range of fascinating topics, from  quantum computing to understanding climate change and cleaning the oceans. Additionally, I share insights on building a fulfilling and rewarding career in the world of tech. Read my latest post 👇<br>
+You can find my publications on Medium and Dev.to, where I share career insights, tips, and my knowledge and experience in tech.
+I also delve into personal thoughts and research on AI, quantum computing and other interesting topics.
+Check out my latest post 👇<br>
   <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@daria-stanilevici/0">
     <img src="https://github-readme-medium-recent-article.vercel.app/medium/@daria-stanilevici/0" alt="Medium Article">
   </a>
