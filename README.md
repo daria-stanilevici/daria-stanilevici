@@ -50,7 +50,7 @@
 You can find my publications on Medium and Dev.to, where I share career insights, tips, and my knowledge and experience in tech.
 I also delve into personal thoughts and research on AI, quantum computing and other interesting topics.
 Check out my latest post 👇<br>
-  <a target="_blank" href="medium.com/@daria-stanilevici">
+  <a target="_blank" href="https://medium.com/@daria-stanilevici">
     <img src="https://github-readme-medium-recent-article.vercel.app/medium/@daria-stanilevici/0" alt="Medium Article">
   </a>
 <br>
