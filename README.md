@@ -38,7 +38,7 @@
 -->
 
 ### Publications
-<div>
+<div> 
   <a href="https://medium.com/@daria-stanilevici">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank" alt="Medium">
   </a>
