@@ -56,6 +56,7 @@ Check out my latest post 👇
 <a href="https://medium.com/@daria-stanilevici" target="_blank">
   <img src="https://github-readme-medium-recent-article.vercel.app/medium/@daria-stanilevici/0" alt="Latest Medium Article" />
 </a>
+[![Medium](https://img.shields.io/badge/Medium-Read%20my%20blog-black?logo=medium)](https://medium.com/@daria-stanilevici)
 
 <!--
      Fast links to my socials!
