@@ -1,0 +1,23 @@
+name: Latest Blog Posts Workflow
+
+on:
+  schedule:
+    # Runs automatically once every day at midnight UTC
+    - cron: '0 0 * * *'
+  workflow_dispatch: # Allows manual trigger from the Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme-with-blog:
+    name: Update README with latest blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      - name: Fetch and sync blog posts
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://dev.to/feed/daria-stanilevici,https://medium.com/feed/@daria-stanilevici"
+          max_post_count: 5

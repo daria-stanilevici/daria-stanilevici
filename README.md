@@ -50,17 +50,15 @@
 You can find my publications on Medium and Dev.to, where I share career insights, tips, and my knowledge and experience in tech.
 I also delve into personal thoughts and research on AI, quantum computing and other interesting topics.
 
+<!-- BLOG-POST-LIST:START -->
+- [Quantum Computing: Nature's New Hope](https://dev.to/daria-stanilevici/quantum-computing-natures-new-hope-5bdb)
+- [Quantum Computing: Expectations VS Unravelling Reality](https://dev.to/daria-stanilevici/quantum-computing-expectations-vs-unravelling-reality-4nf)
+- [How Quantum Computing Will Save Our Planet from Climate Change: Quantum Superpowers to the Rescue](https://dev.to/daria-stanilevici/quantum-superpowers-to-the-rescue-how-quantum-computing-will-save-our-planet-from-climate-change-1a2a)
+- [Why Junior Developers Struggle to Ace Interviews? Unlocking the Hidden Secrets](https://dev.to/daria-stanilevici/why-junior-developers-struggle-to-ace-interviews-unlocking-the-hidden-secrets-2m26)
+- [Call Me Steve: The Inspiring Story of a Women in Tech: AWS Cloud Women & FCA Summer Event](https://dev.to/daria-stanilevici/aws-cloud-women-summer-event-fca-women-in-tech-4jf1)
+<!-- BLOG-POST-LIST:END -->
+
 <!--
-Check out my latest post 👇  
-
-<a href="https://medium.com/@daria-stanilevici" target="_blank">
-  <img src="https://github-readme-medium-recent-article.vercel.app/medium/@daria-stanilevici/0" alt="Latest Medium Article" />
-</a>
-
-
-[![My latest Medium post](https://miro.medium.com/v2/resize:fit:1200/format:webp/INSERT-YOUR-COVER-IMAGE-ID-HERE)](https://medium.com/@daria-stanilevici/your-article-slug)
-
-
      Fast links to my socials!
 -->
 
